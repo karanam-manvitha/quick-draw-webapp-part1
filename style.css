@@ -1,0 +1,17 @@
+body{
+    background-color:deeppink;
+}
+.score{
+    font-size: 25px;
+    margin-left: 100px;
+    background-color: blue;
+}
+.timer{
+    font-size: 25px;
+    float:right;
+    margin-left: 100px;
+    background-color: red;
+}
+.sketch_to_be_drawn{
+  background-color: yellow;
+}
